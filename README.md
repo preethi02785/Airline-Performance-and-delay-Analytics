@@ -23,7 +23,7 @@ The goal of the project is to answer questions such as:
 
 These datasets are connected through common identifiers, creating a unified view of airline operations.
 
-## Insights:
+## Dashboard Insights(Tableau):
 - 246,018 flights analysed across multiple airlines and airports.
 - 64.88% of flights arrived on time.
 - Average arrival delay: 5.66 minutes.
@@ -41,4 +41,6 @@ Data Modelling – Relationship-based analysis across multiple tables.
 DAX Measures – KPIs and calculated metrics.
 Data Cleaning & Transformation – Power Query.
 
-
+## Dashboard
+![Airlines Analytics](<img width="1280" height="664" alt="Airline_Dashboard" src="https://github.com/user-attachments/assets/bc285be6-71db-43a7-87b2-d8b69ae9c3f5" />
+)
