@@ -1,6 +1,7 @@
 # Airline-Performance-and-delay-Analytics
 ## Overview
-This project provides an end-to-end analysis of airline operations by integrating four interconnected datasets: Flights, Airlines, Airports, and Aircraft. Rather than looking at delays and cancellations from a single perspective, the dashboard combines information from all these sources to uncover how airlines, routes, airports, and even aircraft age contribute to overall flight performance.
+This project provides an end-to-end analysis of airline operations by integrating four interconnected datasets: 
+Flights, Airlines, Airports, and Aircraft. Rather than looking at delays and cancellations from a single perspective, the dashboard combines information from all these sources to uncover how airlines, routes, airports, and even aircraft age contribute to overall flight performance.
 
 The goal of the project is to answer questions such as:
 
