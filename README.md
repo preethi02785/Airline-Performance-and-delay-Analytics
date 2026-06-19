@@ -13,6 +13,7 @@ The goal of the project is to answer questions such as:
 - Which airlines maintain the best on-time performance?
 ---
 **Data Model**
+
 ✈️ Flights Dataset: Contains the features such as airline_id, origin, arrival & departure dates, delays, enabling comparison with other datasets.
 
 🏢 Airlines Dataset: Provides airline details for differentiating delay patterns, cancellation trends, and on-time performance across carriers.
@@ -22,4 +23,3 @@ The goal of the project is to answer questions such as:
 🛠 Aircraft Dataset: Provides aircraft age and characteristics, allowing the analysis of how ageing fleets influence delays and reliability.
 
 These datasets are connected through common identifiers, creating a unified view of airline operations.
------
