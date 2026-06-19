@@ -35,9 +35,9 @@ These datasets are connected through common identifiers, creating a unified view
 - Peak-hour operations contribute heavily to traffic congestion and delays.
 
 ## Tech Stack
-Power BI – Interactive dashboard creation and visualisation.
-CSV Datasets – Flights, Airlines, Airports, and Aircraft.
-Data Modelling – Relationship-based analysis across multiple tables.
-DAX Measures – KPIs and calculated metrics.
-Data Cleaning & Transformation – Power Query.
+- Power BI – Interactive dashboard creation and visualisation.
+- CSV Datasets – Flights, Airlines, Airports, and Aircraft.
+- Data Modelling – Relationship-based analysis across multiple tables.
+- DAX Measures – KPIs and calculated metrics.
+- Data Cleaning & Transformation – Power Query.
 
