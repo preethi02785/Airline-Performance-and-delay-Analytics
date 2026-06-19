@@ -12,7 +12,7 @@ The goal of the project is to answer questions such as:
 - Does aircraft age impact delays and cancellations?
 - Which airlines maintain the best on-time performance?
 ---
-**Data Model**
+## Data Model
 
 ✈️ Flights Dataset: Contains the features such as airline_id, origin, arrival & departure dates, delays, enabling comparison with other datasets.
 
