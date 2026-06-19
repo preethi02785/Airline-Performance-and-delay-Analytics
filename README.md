@@ -22,3 +22,23 @@ The goal of the project is to answer questions such as:
 🛠 Aircraft Dataset: Provides aircraft age and characteristics, allowing the analysis of how ageing fleets influence delays and reliability.
 
 These datasets are connected through common identifiers, creating a unified view of airline operations.
+
+## Insights:
+- 246,018 flights analysed across multiple airlines and airports.
+- 64.88% of flights arrived on time.
+- Average arrival delay: 5.66 minutes.
+- Average departure delay: 13.25 minutes.
+- Overall cancellation rate: 2.37%.
+- Delay patterns vary significantly across airlines and routes.
+- Older aircraft exhibit different reliability characteristics compared to newer fleets.
+- Some airports consistently experience higher cancellation rates.
+- Peak-hour operations contribute heavily to traffic congestion and delays.
+
+## Tech Stack
+Power BI – Interactive dashboard creation and visualisation.
+CSV Datasets – Flights, Airlines, Airports, and Aircraft.
+Data Modelling – Relationship-based analysis across multiple tables.
+DAX Measures – KPIs and calculated metrics.
+Data Cleaning & Transformation – Power Query.
+
+
